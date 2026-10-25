@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "file": "upload/header.png",
+      "placement": "header",
+      "width": 3840,
+      "height": 1646,
+      "safeArea": {
+        "x": 1097,
+        "y": 493,
+        "width": 1646,
+        "height": 661
+      },
+      "criticalElements": [
+        {
+          "name": "headline",
+          "x": 1120,
+          "y": 650,
+          "width": 900,
+          "height": 260
+        }
+      ]
+    }
+  ]
+}

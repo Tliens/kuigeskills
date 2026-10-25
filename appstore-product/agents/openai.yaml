@@ -1,0 +1,5 @@
+interface:
+  display_name: "App Store 产品素材"
+  short_description: "制作、审查并交付可提交的 App Store 截图与创意素材"
+  brand_color: "#355746"
+  default_prompt: "使用 $appstore-product 为我的 App 制作一套可提交的 App Store 产品素材。"
