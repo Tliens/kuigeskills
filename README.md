@@ -1,6 +1,6 @@
 # kuigeskills
 
-奎哥的 Agent Skills 合集 | Kuige's collection of agent skills for [ZCode](https://zcode.ai).
+
 
 ## Skills
 
